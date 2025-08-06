@@ -17,4 +17,9 @@ This repository serves as a practical learning companion and quick reference for
 
 ## 🔍 Contents
 
-
+ML/
+├── data/ # Sample datasets (CSV or others)
+├── notebooks/ # Jupyter notebooks for various ML concepts
+├── models/ # Saved models (optional)
+├── utils/ # Helper functions and preprocessing tools
+├── README.md # Project overview
