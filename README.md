@@ -53,6 +53,11 @@ ML/
 
 ---
 
+## 📄 License
+This repository is for learning and educational purposes. Feel free to use or modify the code for your own study.
+
+---
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
