@@ -23,3 +23,39 @@ ML/
 ├── models/ # Saved models (optional)
 ├── utils/ # Helper functions and preprocessing tools
 ├── README.md # Project overview
+
+
+
+---
+
+## 📦 Technologies Used
+
+- **Python 3.x**
+- **NumPy** – numerical operations
+- **Pandas** – data manipulation
+- **Scikit-learn** – ML algorithms and tools
+- **Matplotlib & Seaborn** – data visualization
+- **Jupyter Notebook** – interactive code and notes
+
+---
+
+## 🧪 Topics Covered (Work in Progress)
+
+- [x] Data cleaning and preprocessing  
+- [x] Train-test split and evaluation metrics  
+- [x] Linear Regression  
+- [x] Logistic Regression  
+- [x] K-Nearest Neighbors (KNN)  
+- [ ] Decision Trees and Random Forests  
+- [ ] Support Vector Machines (SVM)  
+- [ ] Unsupervised Learning – KMeans, PCA  
+- [ ] Model tuning and cross-validation  
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ML.git
+   cd ML
